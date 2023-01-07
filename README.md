@@ -8,6 +8,8 @@ There are four mods available below.
 
 ### [Anti Z-Wobble LeadNut](Anti-Z-Wobble-LeadNut)
 
+### [Filament Guide](Filament-Guide)
+
 ### [Z Shaft Alighment Tool](Z-Shaft-Alignment-Tool)
 
 ## Authors
