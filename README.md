@@ -10,6 +10,8 @@ There are four mods available below.
 
 ### [Filament Guide](Filament-Guide)
 
+### [Fan Duct](Fan-Duct)
+
 ### [Z Shaft Alighment Tool](Z-Shaft-Alignment-Tool)
 
 ## Authors
